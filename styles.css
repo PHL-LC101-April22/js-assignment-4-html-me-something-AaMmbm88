@@ -1,1 +1,35 @@
-/* Write your CSS here! */
+body {
+   margin: 8px;
+   display: block;
+   background-image: url("./images/off-white-lotr-background-bhfifmr2bfm80ne2-1.jpg");
+   text-align: center;
+   background-position: 0% 50%;
+   background-size:50%;
+}
+
+#mainHeading{
+    color: red;
+    text-align: center;
+}
+
+.funParagraph{
+    color: green;
+}
+p {
+    padding-left: 575px;
+    padding-right: 575px;
+    font-size: 120%;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.column{
+    align-items: center;
+}
+
+h3 {
+    font-size: 125%;
+}
